@@ -1,6 +1,6 @@
 ### Hi 👋 I am Solomon!
 
-A budding Data Scientist.
+#### A budding Data Scientist.
 ---
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=owtwo&show_icons=true&theme=bear" width = 400>
