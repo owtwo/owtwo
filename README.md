@@ -2,6 +2,8 @@
 
 A curious mind, passionate about drawing meaningful and actionable insights from data.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owtwo&label=Profile%20views&color=0e75b6&style=flat" alt="owtwo" /> </p>
+
 ---
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=owtwo&show_icons=true&theme=bear" width = 400>
