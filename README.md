@@ -1,6 +1,6 @@
 ### Hi 👋 I am Solomon!
 
-A budding Data Scientist.
+A curious mind, passionate about drawing meaningful and actionable insights from data.
 
 ---
 <p align = "left">
