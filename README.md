@@ -1,4 +1,4 @@
 ### Hi 👋 I am Solomon!
 
-a budding Data Scientist. 
+A budding Data Scientist. 
 
